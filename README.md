@@ -10,11 +10,11 @@ Soy un **Analista de Datos** apasionado por convertir datos en información acci
 ---
 
 ### 🛠️ Habilidades Técnicas  
-✅ **Lenguajes y Herramientas**: Python, SQL, Google Sheets  
-✅ **Bases de Datos**: SQL Server
-✅ **Visualización de Datos**: Power BI, Matplotlib, Seaborn  
-✅ **Análisis Avanzado**: DAX, Pandas, NumPy 
-✅ **Otras Habilidades**: Modelado de datos, ETL 
+✅ **Lenguajes y Herramientas**: Python, SQL, Google Sheets.
+✅ **Bases de Datos**: SQL Server.
+✅ **Visualización de Datos**: Power BI, Matplotlib, Seaborn.
+✅ **Análisis Avanzado**: DAX, Pandas, NumPy.
+✅ **Otras Habilidades**: Modelado de datos, ETL.
 
 ---
 
@@ -25,7 +25,8 @@ Soy un **Analista de Datos** apasionado por convertir datos en información acci
 
  
 
-### 📊 **Dashboards & Reportes**: Desarrollo tableros interactivos en Power BIu para facilitar la toma de decisiones en entornos empresariales.  
+### 📊 **Dashboards & Reportes**:
+Desarrollo tableros interactivos en Power BIu para facilitar la toma de decisiones en entornos empresariales.  
 
 🤖 **Automatización & Optimización**: Implemento soluciones en Python y SQL para reducir tiempos de procesamiento y mejorar la eficiencia en el análisis de datos.  
 
