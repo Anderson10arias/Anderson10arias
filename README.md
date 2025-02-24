@@ -10,7 +10,7 @@ Soy un **Analista de Datos** apasionado por convertir datos en información acci
 ---
 
 ### 🛠️ Habilidades Técnicas  
-✅ **Lenguajes y Herramientas**: Python, SQL, Dax, Google Sheets  
+✅ **Lenguajes y Herramientas**: Python, SQL, Google Sheets  
 ✅ **Bases de Datos**: SQL Server
 ✅ **Visualización de Datos**: Power BI, Matplotlib, Seaborn  
 ✅ **Análisis Avanzado**: DAX, Pandas, NumPy 
