@@ -25,7 +25,7 @@ Soy un **Analista de Datos** apasionado por convertir datos en información acci
 
  
 
-📊 **Dashboards & Reportes**: Desarrollo tableros interactivos en Power BIu para facilitar la toma de decisiones en entornos empresariales.  
+### 📊 **Dashboards & Reportes**: Desarrollo tableros interactivos en Power BIu para facilitar la toma de decisiones en entornos empresariales.  
 
 🤖 **Automatización & Optimización**: Implemento soluciones en Python y SQL para reducir tiempos de procesamiento y mejorar la eficiencia en el análisis de datos.  
 
