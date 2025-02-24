@@ -26,7 +26,7 @@ Soy un **Analista de Datos** apasionado por convertir datos en información acci
 ### 📌 Proyectos Destacados  
 🔹 **Proyecto Final NBA Henry** → Proyecto Final en Python, Sql y Power BI. Obejtivo: Estrategia publicitaria basada en los equipos y jugadores más relevantes de la NBA. 🏀
 
-🔹 **Proyecto-Integrador-Biogenesis-Henry** → Proyecto integrador del Bootcamp de Henry utilizando Python y Power BI. Obejtivo: Expansion del laboratorio Biogenesis a raiz del covid-19. 💉
+🔹 **Proyecto Integrador Biogenesis Henry** → Proyecto integrador del Bootcamp de Henry utilizando Python y Power BI. Obejtivo: Expansion del laboratorio Biogenesis a raiz del covid-19. 💉
 
  
 
